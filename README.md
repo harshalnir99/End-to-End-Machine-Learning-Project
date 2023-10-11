@@ -45,11 +45,11 @@ git clone https://github.com/harshalnir99/End-to-End-Machine-Learning-Project.gi
 ## Step 2- Create a conda environment after opening the repository
 
 ```
-conda create -n income python=3.7.6 -y
+conda create -p env python=3.7.6 -y
 ```
 
 ```
-conda activate income
+conda activate env
 ```
 
 ### Step 3 - Install the requirements
