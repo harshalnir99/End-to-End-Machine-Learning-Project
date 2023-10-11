@@ -1,4 +1,4 @@
-# Sensor-Fault-Detection
+# Income Prediction Machine Learning project
 
 ### Problem Statement:- 
 Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
