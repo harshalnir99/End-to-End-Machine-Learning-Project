@@ -1,0 +1,5 @@
+[ 2023-10-11 16:12:02,650 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-10-11 16:12:02,661 ] 224 werkzeug - INFO -  * Debugger PIN: 118-640-432
+[ 2023-10-11 16:12:10,546 ] 224 werkzeug - INFO - 127.0.0.1 - - [11/Oct/2023 16:12:10] "GET / HTTP/1.1" 200 -
+[ 2023-10-11 16:12:11,987 ] 224 werkzeug - INFO - 127.0.0.1 - - [11/Oct/2023 16:12:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-10-11 16:22:09,064 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Paurash\\Desktop\\End to End ML Project\\End-to-End-Machine-Learning-Project\\src\\components\\data_ingestion.py', reloading

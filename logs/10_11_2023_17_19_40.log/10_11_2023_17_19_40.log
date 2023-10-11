@@ -1,0 +1,7 @@
+[ 2023-10-11 17:19:42,258 ] 157 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-10-11 17:19:49,271 ] 25 root - INFO - Data Ingestion started
+[ 2023-10-11 17:19:49,271 ] 27 root - INFO - Data Reading using Pandas library from local system
+[ 2023-10-11 17:19:49,335 ] 29 root - INFO - Data Reading completed
+[ 2023-10-11 17:19:49,567 ] 33 root - INFO - Data splitted into train and test
+[ 2023-10-11 17:19:49,741 ] 40 root - INFO - Data Ingestion completed
+[ 2023-10-11 17:19:49,842 ] 65 root - INFO - Outliers handling code
